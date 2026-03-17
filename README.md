@@ -26,9 +26,7 @@ A modern, responsive UI application built using **React.js** and **Tailwind CSS*
 
 ## 🚀 Live Demo
 
-👉 Add your deployed link here (Vercel / Netlify)
-
----
+https://popx-app-landing-page.vercel.app/
 
 ## ⚙️ Installation
 
