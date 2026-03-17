@@ -1,16 +1,76 @@
-# React + Vite
+# 🚀 PopX UI - React + Tailwind App
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A modern, responsive UI application built using **React.js** and **Tailwind CSS**, based on a design prototype.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+## ✨ Features
 
-## React Compiler
+* 🔐 Login & Registration UI
+* 👤 Account Settings Page
+* 📱 Fully Responsive (Mobile + Laptop)
+* 🎨 Clean and modern UI (Pixel-perfect design)
+* ⚡ Smooth transitions and interactions
+* 💾 LocalStorage-based authentication (demo)
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+---
 
-## Expanding the ESLint configuration
+## 🛠️ Tech Stack
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+* React.js (Vite)
+* Tailwind CSS
+* React Router DOM
+
+---
+
+
+## 🚀 Live Demo
+
+👉 Add your deployed link here (Vercel / Netlify)
+
+---
+
+## ⚙️ Installation
+
+```bash
+git clone https://github.com/your-username/popx-app.git
+cd popx-app
+npm install
+npm run dev
+```
+
+---
+
+## 📂 Project Structure
+
+```
+src/
+ ├── components/
+ │    ├── BUtton.jsx
+ │    ├── Input.jsx
+ ├── pages/
+ │    ├── Welcome.jsx
+ │    ├── Login.jsx
+ │    ├── Register.jsx
+ │    └── Account.jsx
+```
+
+---
+
+## 🔥 Future Improvements
+
+* Form validation
+* Backend authentication (Node/Firebase)
+* Protected routes
+* Profile editing
+
+---
+
+## 🙌 Author
+
+* Your Name
+* GitHub: https://github.com/atharv-06
+
+---
+
+⭐ If you like this project, give it a star!
